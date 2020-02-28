@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Le projet permet d'améliorer vos compétences dans un environnement de travail réel.",
+  "main": "index.js",
+  "scripts": {
+    "watch-sass": "node-sass -w sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdo92elm/mini_projet-renforcement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdo92elm/mini_projet-renforcement/issues"
+  },
+  "homepage": "https://github.com/abdo92elm/mini_projet-renforcement#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}

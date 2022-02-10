@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/abdo92elm/mini_projet-renforcement#readme",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
